@@ -1,0 +1,50 @@
+h1 {
+	font-family: 'Helvetica Neue';
+	font-size: 38px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	line-height: 41.7999992370606px;
+}
+h3 {
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.3999996185303px;
+}
+p {
+	font-family: 'Helvetica Neue';
+	font-size: 15px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 100;
+	line-height: 21.4285717010498px;
+}
+blockquote {
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 21px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 30px;
+}
+pre {
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 18.5714302062988px;
+}
+input[type=text] {
+	border:0px;
+	outline:0;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 45px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 100;
+	line-height: 50px;
+}
